@@ -1,5 +1,5 @@
-# Single's Blog
-## 技术栈
+# Single's PersonWeb
+## technology stack
 - Vue3
 - vite
 - Tailwind
@@ -10,3 +10,6 @@
 - pnpm
 - Axios
 - vueUse
+## Start
+> pnpm install
+> pnpm dev
