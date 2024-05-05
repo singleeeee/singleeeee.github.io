@@ -41,11 +41,10 @@ sidebar:
   widgets:                 # Plugins to be enabled (profile, category, tag, archive, recent_posts)
     normal:                # Scroll along with the page
       - profile
-      - category
       - tag
     sticky:                # Stick to the top of the page
+      - prifile
       - category
-      - tag
       - recent_posts
 
 # Sidebar Widget behavior
