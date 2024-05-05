@@ -43,7 +43,6 @@ sidebar:
       - profile
       - tag
     sticky:                # Stick to the top of the page
-      - prifile
       - category
       - recent_posts
 
