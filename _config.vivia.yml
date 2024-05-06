@@ -21,20 +21,23 @@ banner:
 hue: 250                         # The hue of the theme color (e.g. red: 0, orange: 60, blue: 260, purple: 300, pink: 345)
                                  # Visit `saicaca.github.io/vivia-preview` to preview the theme color
 
-# Personal info
+# 个人资料
 avatar: https://jk-competition.oss-cn-guangzhou.aliyuncs.com/yourBasePath/uploads/2024-02-05/微信图片_20240201173945.jpg                            # Path to the avatar image relative to /source
 author: Single
 subtitle: 一粒尘可填海，一根草斩尽日月星辰，弹指间天翻地覆。
 links:
-  - name: Twitter
-    icon: fa-brands fa-twitter      # Find icon codes at https://fontawesome.com/search
-    url: https://twitter.com
-  - name: Steam
-    icon: fa-brands fa-steam
-    url: https://store.steampowered.com
+  - name: QQ
+    icon: fa-brands fa-qq      # Find icon codes at https://fontawesome.com/search
+    url: https://im.qq.com/
+  - name: Wechat
+    icon: fa-brands fa-weixin
+    url: https://weixin.qq.com/
   - name: GitHub
     icon: fa-brands fa-github
     url: https://github.com/singleeeee
+  - name: 抖音
+    icon: fa-brands fa-tiktok
+    url: https://www.douyin.com/
 
 # Sidebar
 sidebar:
@@ -48,7 +51,7 @@ sidebar:
 
 # Sidebar Widget behavior
 archive_type: 'monthly'
-recent_posts_limits: 5
+recent_posts_limits: 4
 categories:
   max_depth: 2             # Maximum depth of categories displayed in the widget (null for unlimited)
 
@@ -65,9 +68,9 @@ comment:
     # Other supported parameters can be added here if needed
     # Visit https://valine.js.org/configuration.html for more details
   twikoo:
-    enable: false          # Enable Twikoo comment system
-    envID:
-    region:
+    enable: true          # Enable Twikoo comment system
+    envID: https://bloghexo-hbqgwtlsf-singles-projects.vercel.app
+    # region: ap-guangzhou
     path: location.pathname
     lang:
     # See also: https://github.com/imaegoo/twikoo
