@@ -1,6 +1,6 @@
 ---
-title: JS面经-深浅拷贝
-tags: 面试
+title: 深浅拷贝
+tags: Javascript
 categories: Javascript
 ---
 # 前言
