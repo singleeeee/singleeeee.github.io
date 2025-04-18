@@ -1,7 +1,6 @@
 ---
 title: Axios二次封装
-tags: 开发经验
-categories: 开发经历
+categories: 博客
 ---
 
 # Axios二次封装
